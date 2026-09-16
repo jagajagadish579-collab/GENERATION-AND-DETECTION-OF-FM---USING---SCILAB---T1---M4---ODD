@@ -78,8 +78,11 @@ The circuits used to generate a frequency modulation must vary the frequency of 
 * If any Error, correct it in code and execute again.
 * Verify the generated waveform using Tabulation and Model Waveform.
 
----
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/bcbadf4a-593f-4cce-9d20-38ed286060ea" />
 
-## MODEL GRAPH
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/e6943fe6-5474-4fd8-bd54-078865729dd8" />
 
+OUTPUT;
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b22bdba1-f781-4dbc-967d-b4d9a20578f1" />
 
+RESULT: Thus the frequency modulation and demodulation is successfully done and the output is experimentally verified. 
